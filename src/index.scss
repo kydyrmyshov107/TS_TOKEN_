@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0px;
+}
+
+a,
+ul,
+li {
+  list-style: none;
+
+  text-decoration: none;
+  padding: 0px;
+}
+
+.container {
+  max-width: 1300px;
+  width: 100%;
+  padding: 0px 20px;
+  margin: 0px auto;
+}
